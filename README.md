@@ -51,12 +51,25 @@ tarefas abaixo:
 ## Código Auxiliar
 
 * Criar ambientes python
-´´´bash
+  
+```python
  python -m venv <nome_do_ambiente>
- ´´´
+```
 
-- Ativar ambientes pyhton: Scripts\activate
+* Ativar ambientes pyhton
 
-- Executar código python: python nomeArquivo.py
+```python
+ Scripts\activate
+```  
 
-- Executar código vue: npm run dev
+* Executar código python
+
+```python
+ python nomeArquivo.py
+```  
+
+* Executar código vue
+
+```javascript
+npm run dev
+```  
