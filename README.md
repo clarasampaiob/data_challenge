@@ -1,6 +1,6 @@
 ## Desenvolvimento
 
-O código foi desenvolvido em python - backend, vue.js - frontend e MySql - banco de dados.
+O código utilizou python como linguagem backend, vue.js para frontend e MySql para banco de dados.
 
 ## Web Scraping
 
