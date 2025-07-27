@@ -1,6 +1,6 @@
 ## Desenvolvimento
 
-O código foi desenvolvido em python (backend), vue.js (frontend) e MySql (banco de dados)
+O código foi desenvolvido em python - backend, vue.js - frontend e MySql - banco de dados.
 
 ## Web Scraping
 
@@ -50,25 +50,25 @@ tarefas abaixo:
 
 ## Código Auxiliar
 
-* Criar ambientes python
+Criar ambientes python
   
 ```python
  python -m venv <nome_do_ambiente>
 ```
 
-* Ativar ambientes pyhton
+Ativar ambientes pyhton
 
 ```python
  Scripts\activate
 ```  
 
-* Executar código python
+Executar código python
 
 ```python
  python nomeArquivo.py
 ```  
 
-* Executar código vue
+Executar código vue
 
 ```javascript
 npm run dev
